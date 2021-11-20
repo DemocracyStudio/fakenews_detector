@@ -1,6 +1,4 @@
-# capitaineinfo
-This repo contains the code of a Fake News Detector app for the French language. It has been built during the Hackathon of Connective Cities in November 2021, as an answer to the needs expressed by two municipalities in Africa: Lomé, Togo, and Antananarivo, Madagascar, two French-speaking countries. 
-
+![dzitri](https://user-images.githubusercontent.com/3306328/142714520-3776b373-7a92-4ff3-aa3d-d068102a9c90.png)
 
 PITCH:
 Capitaine Info is a web robot to prevent fake news, misinformation and radical propagandists on social media platforms. 
