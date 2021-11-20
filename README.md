@@ -1,6 +1,6 @@
 ![dzitri](https://user-images.githubusercontent.com/3306328/142714520-3776b373-7a92-4ff3-aa3d-d068102a9c90.png)
 
-Legendary king of the past, Dzitri is a beloved figure considered a protector of the city of Lomé and its inhabitants. Thanks to its unlimited powers, he turned himself a web robot to prevent fake news, misinformation and radical propagandists on social media platforms. 
+Legendary king of the past, Dzitri is a beloved figure of the Togolese folklore, considered a protector of the city of Lomé and its inhabitants. Thanks to its unlimited powers, he turned himself a web robot to prevent fake news, misinformation and radical propagandists on social media platforms. 
 
 Each time a user tries to publish a message with an exaggerating alarming tone, aggressive content, or a dissonant message compared to the overall sentiment expressed on the platform, Dzitri suspends the publication and asks the user a confirmation, reminding that certain messages can affect the most sensitive users and should be fact checked before being published.
 
